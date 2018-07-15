@@ -1,1 +1,1 @@
-这是一个练手的简易商城项目
+This is a easy store exercise
